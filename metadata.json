@@ -1,0 +1,6 @@
+{
+  "name": "Les Petites Faims",
+  "description": "Site officiel du restaurant Les Petites Faims à Clamart, France. Découvrez notre carte de bistrot faite maison, réservez votre table en ligne ou commandez en click & collect.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
